@@ -52,6 +52,11 @@ String {printf("Palavra Reservada: %s \n",yytext);}
 int yywrap();
 
 int main(void){
+    printf("====TRABALHO DE COMPILADORES====\n");
+    printf("ALUNOS: VINICIUS QUEIROZ TIMOTEO\n");
+    printf("        BRUNO NAVARRO CHILLANTE\n");
+    printf("=====ANALISADOR LEXICO======\n");
+    printf("INSIRA UMA CADEIA A SER ANALISADA:\n");
     yylex();
     return 0;
 }
