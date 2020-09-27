@@ -11,7 +11,7 @@
   Para a execução desse automato será possível de duas maneiras, a primeira é a mais fácil,
   será apenas executar o arquivo a.exe que estará dentro da pasta "codigo_fonte".
   
-  A segunda maneira será um pouco mais complicada, pois deverá ser instalado 2 programas, primeiramente o flex, e o compilador gcc, pois infelizmente no windows o gcc não vem nativo assim como no MAC, 
+  A segunda maneira será um pouco mais complicada, pois deverá ser instalado 2 programas, primeiramente o flex, e o compilador gcc, pois infelizmente no windows o gcc não vem nativo assim como no MAC. 
   
 ## Primeira etapa:
   Primeiro faça o download de ambos deixarei o link abaixo:
@@ -30,6 +30,26 @@
   |Palavra | Token |
   |--------|-------|
   | Begin  | TOKEN_INICIA| 
+  | End    | TOKEN_TERMINA|
+  | If     | TOKEN_SE|
+  | Then   | TOKEN_ENTAO|
+  | Else   | TOKEN_SENAO|
+  | Do     | TOKEN_FAZER|
+  | Return | TOKEN_RETORNA|
+  | Break  | TOKEN_QUEBRA|
+  | Int    | TOKEN_INTEIRO|
+  | Float  | TOKEN_REAL_32BITS|
+  | Double | TOKEN_REAL_64BITS|
+  | String | TOKEN_MATRIZ_CARACTERE|
+  | ;      | TOKEN_FECHA_LINHA|
+  | +      | TOKEN_SOMA|
+  | -      | TOKEN_SUBTRACAO|
+  | /      | TOKEN_DIVISAO|
+  | {      | TOKEN_ABRE_CONDICAO|
+  | }      | TOKEN_FECHA_CONDICAO|
+  | [      | TOKEN_ABBRE_MATRIZ|
+  
+
   
 
   
