@@ -7,3 +7,18 @@
  para a produção de um análisador léxico, a ferramenta
  escolhida em questão foi o Flex, devido a sua facilidade
  de manuseio para a criação do análisador léxico.
+# Executando o automato
+  Para a execução desse automato será possível de duas maneiras, a primeira é a mais fácil,
+  será apenas executar o arquivo a.exe que estará dentro da pasta "codigo_fonte".
+  
+  A segunda maneira será um pouco mais complicada, pois deverá ser instalado 2 programas, primeiramente o flex, e o compilador gcc, pois infelizmente no windows o gcc não vem nativo assim como no MAC, 
+  
+## Primeira etapa:
+  Primeiro faça o download de ambos deixarei o link abaixo:
+  https://sourceforge.net/projects/mingw/
+  http://gnuwin32.sourceforge.net/packages/flex.htm
+## Segunda etapa:
+  será necessário adicionar ambos programas as variáveis de ambiente do windows, e deverão estar na mesma ordem da imagem, pois se não elas reconhecidas pelo windows.
+ 
+
+  
