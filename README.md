@@ -15,8 +15,8 @@
   
 ## Primeira etapa:
   Primeiro faça o download de ambos deixarei o link abaixo:
-  1.```Link:https://sourceforge.net/projects/mingw/```
-  2.```Link:http://gnuwin32.sourceforge.net/packages/flex.htm```
+  1.Link:https://sourceforge.net/projects/mingw/
+  2.Link:http://gnuwin32.sourceforge.net/packages/flex.htm
 ## Segunda etapa:
  1. ```será necessário adicionar ambos programas as variáveis de ambiente do windows, e deverão estar na mesma ordem da imagem, pois se não elas não serão reconhecidas pelo windows.```
  2.img:![b5a0a7da57f3ddd3c47c92c4c35a4053](https://user-images.githubusercontent.com/44319115/94371040-d6f8fb00-00c9-11eb-971e-215c91175017.png)
@@ -67,6 +67,8 @@
   | &&     | TOKEN_E |
   | ==     | TOKEN_IGUAL|
  
+ # Alunos:
+ Esse trabalho foi realizado pelos alunos, Vinícius Queiroz Timóteo, RA:2573, Turma:ECOM6S, e seu companheiro de dupla foi o aluno: Bruno Navarro Chillante, RA:2589, Turma:ECOM6S
   
 
   
