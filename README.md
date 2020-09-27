@@ -11,15 +11,15 @@
   Para a execução desse automato será possível de duas maneiras, a primeira é a mais fácil,
   será apenas executar o arquivo a.exe que estará dentro da pasta "codigo_fonte".
   
-  A segunda maneira será um pouco mais complicada, pois deverá ser instalado 2 programas, primeiramente o flex, e o compilador gcc, pois infelizmente no windows o gcc não vem nativo assim como no MAC. 
+  A segunda maneira será um pouco mais complicada, pois deverá ser instalado 2 programas, primeiramente o flex, e o compilador gcc
   
 ## Primeira etapa:
   Primeiro faça o download de ambos deixarei o link abaixo:
   1.Link:https://sourceforge.net/projects/mingw/
   2.Link:http://gnuwin32.sourceforge.net/packages/flex.htm
 ## Segunda etapa:
- 1. ```será necessário adicionar ambos programas as variáveis de ambiente do windows, e deverão estar na mesma ordem da imagem, pois se não elas não serão reconhecidas pelo windows.```
- 2.img:![b5a0a7da57f3ddd3c47c92c4c35a4053](https://user-images.githubusercontent.com/44319115/94371040-d6f8fb00-00c9-11eb-971e-215c91175017.png)
+```será necessário adicionar ambos programas as variáveis de ambiente do windows, no PATH, e deverão estar na mesma ordem da imagem, pois se não elas não serão reconhecidas pelo windows.```
+img:![b5a0a7da57f3ddd3c47c92c4c35a4053](https://user-images.githubusercontent.com/44319115/94371040-d6f8fb00-00c9-11eb-971e-215c91175017.png)
 ## Terceira etapa:
   Voce deverá ir até a pasta codigo_fonte por via de comandos do CMD, como por exemplo no meu caso "cd   C:\Users\Vinicius_2\OneDrive\Área de Trabalho\lex\trabalho_compiladores" ao adentrar a pasta, voce deverá primeiramente digitar
 "flex lexCompiler.l" após esse comando ser executado com sucesso, você deverá após isso digitar "gcc lex.yy.c"
@@ -66,6 +66,10 @@
   | ║    | TOKEN_OU         |
   | &&     | TOKEN_E |
   | ==     | TOKEN_IGUAL|
+  
+  ### Exemplo de uso
+  ![f85c3cb0bb3d2c4635a9a01307c5ab87](https://user-images.githubusercontent.com/44319115/94372888-ca7b9f00-00d7-11eb-85ba-3d42f7fdf2a5.png)
+
  
  # Alunos:
  Esse trabalho foi realizado pelos alunos, Vinícius Queiroz Timóteo, RA:2573, Turma:ECOM6S, e seu companheiro de dupla foi o aluno: Bruno Navarro Chillante, RA:2589, Turma:ECOM6S
