@@ -58,7 +58,7 @@
   | <      | TOKEN_MENOR|
   | >=     | TOKEN_MAIOR_IGUAL|
   | <=     | TOKEN_MENOR_IGUAL|
-  | "||"     | TOKEN_OU         |
+  | ||    | TOKEN_OU         |
   | &&     | TOKEN_E |
   | ==     | TOKEN_IGUAL|
  
