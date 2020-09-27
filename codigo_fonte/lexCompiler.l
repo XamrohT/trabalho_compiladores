@@ -30,7 +30,7 @@ String {printf("Palavra Reservada: %s \n",yytext);}
 "}"     {printf("TOKEN_FECHA_CONDICAO: %s\n",yytext);}
 "["     {printf("TOKEN_ABRE_MATRIZ: %s\n",yytext);}
 "]"     {printf("TOKEN_FECHA_MATRIZ: %s\n",yytext);}
-"("     {printf("TOKEN_FECHA_PARENTESES: %s\n",yytext);}
+"("     {printf("TOKEN_ABRE_PARENTESES: %s\n",yytext);}
 ")"     {printf("TOKEN_FECHA_PARENTESES: %s\n",yytext);}
 "="     {printf("TOKEN_ATRIBUI_VALOR: %s\n",yytext);}
 "!"     {printf("TOKEN_NEGACAO: %s\n",yytext);}

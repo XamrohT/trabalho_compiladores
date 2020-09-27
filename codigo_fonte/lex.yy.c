@@ -764,7 +764,7 @@ YY_RULE_SETUP
 case 22:
 YY_RULE_SETUP
 #line 33 "lexCompiler.l"
-{printf("TOKEN_FECHA_PARENTESES: %s\n",yytext);}
+{printf("TOKEN_ABRE_PARENTESES: %s\n",yytext);}
 	YY_BREAK
 case 23:
 YY_RULE_SETUP
