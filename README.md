@@ -15,8 +15,8 @@
   
 ## Primeira etapa:
   Primeiro faça o download de ambos deixarei o link abaixo:
-  1.https://sourceforge.net/projects/mingw/
-  2.http://gnuwin32.sourceforge.net/packages/flex.htm
+  *https://sourceforge.net/projects/mingw/
+  *http://gnuwin32.sourceforge.net/packages/flex.htm
 ## Segunda etapa:
   1.será necessário adicionar ambos programas as variáveis de ambiente do windows, e deverão estar na mesma ordem da imagem, pois se não elas não serão reconhecidas pelo windows.
  2.![b5a0a7da57f3ddd3c47c92c4c35a4053](https://user-images.githubusercontent.com/44319115/94371040-d6f8fb00-00c9-11eb-971e-215c91175017.png)
