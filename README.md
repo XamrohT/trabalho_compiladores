@@ -26,5 +26,10 @@
 
 ## Quarta etapa:
   Esta etapa está relacionada ao uso do análisador
+  ### tabela de símbolos reconhecidas pelo automato:
+  |Palavra | Token |
+  |--------|-------|
+  | Begin  | TOKEN_INICIA| 
+  
 
   
