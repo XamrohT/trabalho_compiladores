@@ -11,7 +11,7 @@
   Para a execução desse automato será possível de duas maneiras, a primeira é a mais fácil,
   será apenas executar o arquivo a.exe que estará dentro da pasta "codigo_fonte".
   
-  A segunda maneira será um pouco mais complicada, pois deverá ser instalado 2 programas, primeiramente o flex, e o compilador gcc, pois infelizmente no windows o gcc não vem nativo assim como no MAC. 
+  A segunda maneira será um pouco mais complicada, pois deverá ser instalado 2 programas, primeiramente o flex, e o compilador gcc
   
 ## Primeira etapa:
   Primeiro faça o download de ambos deixarei o link abaixo:
