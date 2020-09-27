@@ -47,7 +47,21 @@
   | /      | TOKEN_DIVISAO|
   | {      | TOKEN_ABRE_CONDICAO|
   | }      | TOKEN_FECHA_CONDICAO|
-  | [      | TOKEN_ABBRE_MATRIZ|
+  | [      | TOKEN_ABRE_MATRIZ|
+  | ]      | TOKEN_FECHA_MATRIZ|
+  | (      | TOKEN_ABRE_PARENTESES|
+  | )      | TOKEN_FECHA_PARENTESES|
+  | =      | TOKEN_ATRIBUI_VALOR|
+  | !      | TOKEN_NEGACAO|
+  | !=     | TOKEN_DIFERENTE|
+  | >      | TOKEN_MAIOR|
+  | <      | TOKEN_MENOR|
+  | >=     | TOKEN_MAIOR_IGUAL|
+  | <=     | TOKEN_MENOR_IGUAL|
+  | ||     | TOKEN_OU         |
+  | &&     | TOKEN_E |
+  | ==     | TOKEN_IGUAL|
+ 
   
 
   
