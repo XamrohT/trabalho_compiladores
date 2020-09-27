@@ -68,7 +68,8 @@ img:![b5a0a7da57f3ddd3c47c92c4c35a4053](https://user-images.githubusercontent.co
   | ==     | TOKEN_IGUAL|
   
   ### Exemplo de uso
-  ![97e7db72ac2d949c175cdaec0e5719e0](https://user-images.githubusercontent.com/44319115/94372805-46291c00-00d7-11eb-8127-59b6dc7b8254.png)
+  ![f85c3cb0bb3d2c4635a9a01307c5ab87](https://user-images.githubusercontent.com/44319115/94372888-ca7b9f00-00d7-11eb-85ba-3d42f7fdf2a5.png)
+
  
  # Alunos:
  Esse trabalho foi realizado pelos alunos, Vinícius Queiroz Timóteo, RA:2573, Turma:ECOM6S, e seu companheiro de dupla foi o aluno: Bruno Navarro Chillante, RA:2589, Turma:ECOM6S
