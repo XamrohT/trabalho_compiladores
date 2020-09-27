@@ -19,6 +19,6 @@
   http://gnuwin32.sourceforge.net/packages/flex.htm
 ## Segunda etapa:
   será necessário adicionar ambos programas as variáveis de ambiente do windows, e deverão estar na mesma ordem da imagem, pois se não elas reconhecidas pelo windows.
- 
+ ![b5a0a7da57f3ddd3c47c92c4c35a4053](https://user-images.githubusercontent.com/44319115/94371040-d6f8fb00-00c9-11eb-971e-215c91175017.png)
 
   
