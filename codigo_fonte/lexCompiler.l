@@ -15,6 +15,8 @@ If {printf("Palavra Reservada: %s \n",yytext);}
 Then {printf("Palavra Reservada: %s \n",yytext);}
 Else {printf("Palavra Reservada: %s \n",yytext);}
 Do {printf("Palavra Reservada: %s \n",yytext);}
+While {printf("Palavra Reservada: %s \n",yytext);}
+Repeat {printf("Palavra Reservada: %s \n",yytext);}
 Return {printf("Palavra Reservada: %s \n",yytext);}
 Break {printf("Palavra Reservada: %s \n",yytext);}
 Int   {printf("Palavra Reservada: %s \n",yytext);}
