@@ -40,6 +40,8 @@ img:![b5a0a7da57f3ddd3c47c92c4c35a4053](https://user-images.githubusercontent.co
   | Then   | TOKEN_ENTAO|
   | Else   | TOKEN_SENAO|
   | Do     | TOKEN_FAZER|
+  | While  |TOKEN_ENQUANTO|
+  | Repeat |TOKEN_REPITA |
   | Return | TOKEN_RETORNA|
   | Break  | TOKEN_QUEBRA|
   | Int    | TOKEN_INTEIRO|
